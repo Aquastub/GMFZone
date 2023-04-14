@@ -37,6 +37,7 @@
     {"id":{"name":"boot_animation","path":"rooms/boot_animation/boot_animation.yy",},},
     {"id":{"name":"title_screen","path":"rooms/title_screen/title_screen.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
+    {"id":{"name":"obj_bootanimation","path":"objects/obj_bootanimation/obj_bootanimation.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_bootanimation","path":"sprites/spr_bootanimation/spr_bootanimation.yy",},},

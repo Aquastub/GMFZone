@@ -20,6 +20,7 @@
     {"name":"boot_animation","order":2,"path":"rooms/boot_animation/boot_animation.yy",},
     {"name":"title_screen","order":1,"path":"rooms/title_screen/title_screen.yy",},
     {"name":"spr_bullet","order":1,"path":"sprites/spr_bullet/spr_bullet.yy",},
+    {"name":"obj_bootanimation","order":1,"path":"objects/obj_bootanimation/obj_bootanimation.yy",},
     {"name":"spr_bootanimation","order":2,"path":"sprites/spr_bootanimation/spr_bootanimation.yy",},
   ],
 }
