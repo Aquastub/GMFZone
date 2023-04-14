@@ -34,6 +34,8 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
+    {"id":{"name":"boot_animation","path":"rooms/boot_animation/boot_animation.yy",},},
+    {"id":{"name":"title_screen","path":"rooms/title_screen/title_screen.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
@@ -41,6 +43,8 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"test_level","path":"rooms/test_level/test_level.yy",},},
+    {"roomId":{"name":"title_screen","path":"rooms/title_screen/title_screen.yy",},},
+    {"roomId":{"name":"boot_animation","path":"rooms/boot_animation/boot_animation.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

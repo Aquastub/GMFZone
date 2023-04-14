@@ -1,8 +1,8 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "test_level",
-  "creationCodeFile": "",
+  "name": "title_screen",
+  "creationCodeFile": "${project_dir}/rooms/title_screen/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
@@ -25,10 +25,10 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 480,
+    "Height": 768,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 640,
+    "Width": 1366,
   },
   "sequenceId": null,
   "views": [

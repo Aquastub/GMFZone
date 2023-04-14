@@ -1,0 +1,1 @@
+title_font = font_add_sprite(spr_title_font, 32);
